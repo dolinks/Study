@@ -10,8 +10,6 @@ type Iterator interface {
 	GetIndex() int              //得到索引
 }
 
-
-
 func () HasNext() {
 	//TODO implement me
 	panic("implement me")
